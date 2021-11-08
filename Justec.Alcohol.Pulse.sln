@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Justec.Alcohol.Pulse.Model", "Justec.Alcohol.Pulse.Model\Justec.Alcohol.Pulse.Model.csproj", "{027B1B13-EC8C-41A9-A3A0-93A9FB3BE49F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Justec.Alcohol.Pulse.Utils", "Justec.Alcohol.Pulse.Utils\Justec.Alcohol.Pulse.Utils.csproj", "{9D2D4B00-B76C-4CCD-98BA-CCE97B725792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Justec.Alcohol.Pulse.BLL", "Justec.Alcohol.Pulse.BLL\Justec.Alcohol.Pulse.BLL.csproj", "{A4ADF1B3-8F47-4E15-A590-7F8969CA3D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Justec.Alcohol.Pulse", "Justec.Alcohol.Pulse\Justec.Alcohol.Pulse.csproj", "{FC38B673-8602-42B0-BC88-D6C830F144DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027B1B13-EC8C-41A9-A3A0-93A9FB3BE49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027B1B13-EC8C-41A9-A3A0-93A9FB3BE49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027B1B13-EC8C-41A9-A3A0-93A9FB3BE49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027B1B13-EC8C-41A9-A3A0-93A9FB3BE49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D2D4B00-B76C-4CCD-98BA-CCE97B725792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2D4B00-B76C-4CCD-98BA-CCE97B725792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2D4B00-B76C-4CCD-98BA-CCE97B725792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2D4B00-B76C-4CCD-98BA-CCE97B725792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4ADF1B3-8F47-4E15-A590-7F8969CA3D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4ADF1B3-8F47-4E15-A590-7F8969CA3D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4ADF1B3-8F47-4E15-A590-7F8969CA3D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4ADF1B3-8F47-4E15-A590-7F8969CA3D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC38B673-8602-42B0-BC88-D6C830F144DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC38B673-8602-42B0-BC88-D6C830F144DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC38B673-8602-42B0-BC88-D6C830F144DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC38B673-8602-42B0-BC88-D6C830F144DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE0366A9-2EF7-4C81-BF49-D578E07EAC08}
+	EndGlobalSection
+EndGlobal
